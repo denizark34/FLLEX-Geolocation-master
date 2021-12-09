@@ -1,1 +1,2 @@
-# FLLEX-Geolocation-master
+# FLLEX-Geolocation
+Yer Tespiti Aracı
